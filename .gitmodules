@@ -1,0 +1,12 @@
+[submodule "w210-website"]
+	path = w210-website
+	url = git@github.com:Yzchen1994/w210-website.git
+[submodule "w210-web"]
+	path = w210-web
+	url = git@github.com:Yzchen1994/w210-web.git
+[submodule "w210-api"]
+	path = w210-api
+	url = git@github.com:Yzchen1994/w210-api.git
+[submodule "Capstone_Car_Accident"]
+	path = Capstone_Car_Accident
+	url = git@github.com:LuoDanqi/Capstone_Car_Accident.git
